@@ -1,0 +1,15 @@
+{
+  "name": "tuffatest-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "asn1js": "^3.0.5",
+    "pkijs": "^3.0.15",
+    "pvutils": "^1.1.3"
+  }
+}
